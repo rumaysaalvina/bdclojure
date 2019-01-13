@@ -13,6 +13,7 @@ https://user.maria.cloud/gist/df01620524d8810116ab6f52411f440e
 * Exercise 1
 https://user.maria.cloud/gist/f248367b80042bae735a2999ad5858ba
 
+* Keyboard shourtcut https://user.maria.cloud/gist/6692f57c0cae803667f0e0c271b2f540
 
 * Prime Number 
   https://user.maria.cloud/gist/8c213092e560827c8e6455103d8919cb
