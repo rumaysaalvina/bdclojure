@@ -17,3 +17,7 @@ https://user.maria.cloud/gist/f248367b80042bae735a2999ad5858ba
 
 * Prime Number 
   https://user.maria.cloud/gist/8c213092e560827c8e6455103d8919cb
+* Prive Fector
+https://user.maria.cloud/gist/2ee48569aa762a35e1f73f494b3616ee
+* Cell 
+https://user.maria.cloud/gist/9a84c4bb6a0cc2c14d73083507f0be7c
